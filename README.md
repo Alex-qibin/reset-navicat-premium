@@ -2,7 +2,7 @@
 无限重置试用 navicat premium所有版本, 支持Windows 和 MAC !   亲测Win10没啥问题！
 
 推荐使用 reset_for_xxxx.bat !
-
+将文件放在 win + R ->  shell:startup 下 将开机自运行
 
 
 reset.py 需要 python3环境才行！仅供学习使用！
