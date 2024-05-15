@@ -22,6 +22,7 @@ echo re trial done!
   
 
 :: start /d "E:Clash.for.Windows-0.20.24-win"  Clash.exe
+start /d "E:Navicat-Premium-16"  navicat.exe
 
 echo Finish
 :: pause
